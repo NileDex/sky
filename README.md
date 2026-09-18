@@ -1,6 +1,6 @@
 # sky
 
-MCPay — Product Requirements Document
+Product Requirements Document
 Tagline: Let AI shop. Only your wallet pays.
 
 1. Problem
